@@ -1,0 +1,6 @@
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\bin\Debug\RouletteLib.XML
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\bin\Debug\RouletteLib.dll
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\bin\Debug\RouletteLib.pdb
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\obj\Debug\RouletteLib.fsprojResolveAssemblyReference.cache
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\obj\Debug\RouletteLib.dll
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteLib\obj\Debug\RouletteLib.pdb

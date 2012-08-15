@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Casino">
+</Property><Property Name="Fichier solution" Value="C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casion\Casino.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casion\Casino.v11.suo">
+</Property><Property Name="Date" Value="mercredi 15 août 2012">
+</Property><Property Name="Time" Value="02:30">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="Casino.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="Casino.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casion\Backup\Casino.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Casino.v11.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casion\Backup\Casino.v11.suo">
+</Event><Event ErrorLevel="3" Project="RouletteLib" Source="RouletteLib\RouletteLib.fsproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="3" Project="RouletteLib" Source="RouletteLib\RouletteLib.fsproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Casino.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="Casino.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOLib\bin\Debug\RouletteOOLib.dll
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOLib\bin\Debug\RouletteOOLib.pdb
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOLib\obj\Debug\RouletteOOLib.csprojResolveAssemblyReference.cache
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOLib\obj\Debug\RouletteOOLib.dll
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOLib\obj\Debug\RouletteOOLib.pdb

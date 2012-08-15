@@ -1,0 +1,41 @@
+﻿<Window x:Class="RouletteSim.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Roulette Sim" Height="300" Width="400" Loaded="Window_Loaded" Icon="/RouletteSim;component/casino.ico" ResizeMode="CanMinimize" Name="ManualSim">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25" />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Row="0" Grid.Column="0" Name="txt_bid" IsReadOnly="True">5</TextBox>
+        <Button Grid.Row="0" Grid.Column="1" Name="btn_playStrat" Click="btn_playStrat_Click">Play Mart.</Button>
+        <Label Name="lbl_res" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" FontSize="80" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="Green" Foreground="White">1</Label>
+        <Grid Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0">Wealth</Label>
+            <Label Grid.Row="1" Grid.Column="0">Earnings</Label>
+            <Label Grid.Row="2" Grid.Column="0">Losses</Label>
+            <TextBox Grid.Row="0" Grid.Column="1" Name="txt_initWealth" IsReadOnly="True"></TextBox>
+            <TextBox Grid.Row="1" Grid.Column="1" Name="txt_earnings" IsReadOnly="True"></TextBox>
+            <TextBox Grid.Row="2" Grid.Column="1" Name="txt_losses" IsReadOnly="True"></TextBox>
+            
+        </Grid>
+    
+        <ListBox Name="lst_history" Grid.Column="2" Grid.Row="0" Grid.RowSpan="3"></ListBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,64 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.g.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\AutoSim.baml
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\ManualSim.baml
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\AutoSim.g.cs
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\ManualSim.g.cs
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\MainMenu.baml
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\MainMenu.g.cs
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe.config
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe.manifest
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.application
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.exe.manifest
+C:\Users\User\Documents\Visual Studio 2008\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.application
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe.config
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.exe
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.pdb
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe.manifest
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.application
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.exe
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\bin\Debug\RouletteSim.pdb
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\AutoSim.baml
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\MainMenu.baml
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\ManualSim.baml
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\AutoSim.g.cs
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\MainMenu.g.cs
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\ManualSim.g.cs
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\App.g.cs
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim_MarkupCompile.cache
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.g.resources
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.Properties.Resources.resources
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\GenerateResource.read.1.tlog
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\GenerateResource.write.1.tlog
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.exe.manifest
+c:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\RouletteSim\RouletteSim\obj\Debug\RouletteSim.application
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\bin\Debug\RouletteSim.exe.config
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.exe
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.pdb
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\bin\Debug\RouletteSim.exe.manifest
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\bin\Debug\RouletteSim.application
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\bin\Debug\RouletteSim.exe
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\bin\Debug\RouletteSim.pdb
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.csprojResolveAssemblyReference.cache
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\AutoSim.baml
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\MainMenu.baml
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\ManualSim.baml
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\AutoSim.g.cs
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\MainMenu.g.cs
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\ManualSim.g.cs
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\App.g.cs
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim_MarkupCompile.cache
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.g.resources
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.Properties.Resources.resources
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.csproj.GenerateResource.Cache
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.exe.manifest
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteSim\obj\Debug\RouletteSim.application

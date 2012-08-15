@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RouletteFunctionalLib", "RouletteFunctionalLib\RouletteFunctionalLib.fsproj", "{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteSim", "RouletteSim\RouletteSim.csproj", "{00515A31-9257-445F-AFF8-F9158D13606B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteOOLib", "RouletteOOLib\RouletteOOLib.csproj", "{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00515A31-9257-445F-AFF8-F9158D13606B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00515A31-9257-445F-AFF8-F9158D13606B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00515A31-9257-445F-AFF8-F9158D13606B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00515A31-9257-445F-AFF8-F9158D13606B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
