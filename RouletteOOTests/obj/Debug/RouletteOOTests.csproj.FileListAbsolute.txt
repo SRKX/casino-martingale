@@ -1,0 +1,7 @@
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\bin\Debug\RouletteOOTests.dll
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\bin\Debug\RouletteOOTests.pdb
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\bin\Debug\RouletteOOLib.dll
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\bin\Debug\RouletteOOLib.pdb
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\obj\Debug\RouletteOOTests.csprojResolveAssemblyReference.cache
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\obj\Debug\RouletteOOTests.dll
+C:\Users\Jérémie Smaga\Documents\Visual Studio 2010\Projects\Casino\RouletteOOTests\obj\Debug\RouletteOOTests.pdb

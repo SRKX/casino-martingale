@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteSim", "RouletteSim\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteOOLib", "RouletteOOLib\RouletteOOLib.csproj", "{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteOOTests", "RouletteOOTests\RouletteOOTests.csproj", "{A590FE3F-F5F1-49A0-B6CF-0CBF587D1D67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B02D871-B5F2-4567-B23E-B50C2D9A03F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A590FE3F-F5F1-49A0-B6CF-0CBF587D1D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A590FE3F-F5F1-49A0-B6CF-0CBF587D1D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A590FE3F-F5F1-49A0-B6CF-0CBF587D1D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A590FE3F-F5F1-49A0-B6CF-0CBF587D1D67}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6ADBEE7-F3E0-45B9-9CBA-CDDF5A541E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
