@@ -15,6 +15,10 @@ namespace RouletteOOLib
     /// </summary>
     public class Number
     {
+
+        private static int[] _redNumber = new int[] { 1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36};
+
+
         /// <summary>
         /// Value of the number
         /// </summary>
@@ -31,7 +35,7 @@ namespace RouletteOOLib
         public virtual NumberColor Color {
             get {
                 if (Value == 0) return NumberColor.None;
-                else if (Value % 2 == 1) return NumberColor.Red;
+                else if (_redNumber.Contains(Value)) return NumberColor.Red;
                 else return NumberColor.Black;
             }
         }
